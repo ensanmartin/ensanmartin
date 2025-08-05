@@ -1,16 +1,14 @@
-## Hi there 👋
+**[interests]**  
+computational chemistry, data analysis, libre software
 
-<!--
-**ensanmartin/ensanmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[preferred languages]**  
+python, r, typescript, bash, java
 
-Here are some ideas to get you started:
+**[other languages]**  
+julia, rust, c
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[technologies]**  
+***web:*** node.js, eleventy, liquid, nunjucks, sass  
+***computing:*** wolfram mathematica, numpy, pandas  
+***os:*** gnu/linux  
+***source control:*** git/github/gitlab  
